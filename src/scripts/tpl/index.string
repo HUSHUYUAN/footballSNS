@@ -1,0 +1,43 @@
+<div class="m-index">
+  <header>
+    <ul>
+      <li class="yo-ico">&#xe650;</li>
+      <li>
+        果壳精选
+      </li>
+    </ul>
+  </header>
+  <nav>
+    <ul>
+      <li class="active">足球现场</li>
+      <li>足球生活</li>
+      <li>足球美女</li>
+    </ul>
+  </nav>
+  <section>
+
+  </section>
+  <footer>
+    <ul>
+      <li>
+        <i class="yo-ico">&#xe6bb;</i>
+        <b>首页</b>
+      </li>
+      <li class="active">
+        <i class="yo-ico">&#xe65c;</i>
+        <b>发现</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe664;</i>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe735;</i>
+        <b>我的</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe603;</i>
+        <b>退出</b>
+      </li>
+    </ul>
+  </footer>
+</div>
